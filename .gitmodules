@@ -1,0 +1,9 @@
+[submodule "photometry"]
+	path = photometry
+	url = https://github.com/tasoc/photometry.git
+[submodule "corrections"]
+	path = corrections
+	url = https://github.com/tasoc/corrections.git
+[submodule "starclass"]
+	path = starclass
+	url = https://github.com/tasoc/starclass
